@@ -1,4 +1,4 @@
-🐼 Pandas Basics Documentation
+# 🐼 _Pandas Basics Documentation_
 
 This repository contains notes and practice notebooks covering the fundamental concepts of Pandas, a powerful Python library used for data manipulation and analysis in Python.
 It is designed for beginners who want to learn how to work with structured datasets such as CSV and Excel files.
