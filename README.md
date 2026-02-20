@@ -15,7 +15,7 @@ If it is not available, you can install it using:
 
 conda install pandas
 
-📥 Importing Pandas
+## 📥 Importing Pandas
 
 After installation, Pandas is imported in Python using the commonly accepted alias pd.
 
